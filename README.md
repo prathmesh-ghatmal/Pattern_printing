@@ -14,7 +14,7 @@
    - After Questions 10–12: **Solved 10 11 12**
 7. Make sure the output matches the expected pattern. Pay attention to the number of rows, columns, spaces, and symbols.
 8. Do not copy solutions. Try to understand the pattern and build the logic yourself.
-
+9. Add comments in every Python file explaining the logic you have used to create that pattern. Comments should describe the purpose of the loops, conditions, and spacing wherever applicable.
 ---
 
 ## Question 1: Solid Square
